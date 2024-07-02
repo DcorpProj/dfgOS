@@ -58,7 +58,6 @@ c.print('[bold red]          |___/               ')
 print(f'\n\n\n_Login_\n\nName: {name}')
 while True:
     passwd = input('Enter password: ')
-    if passwd == password:
-        
+    if passwd == password:
         main_start()
         break
