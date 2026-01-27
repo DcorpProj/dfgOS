@@ -1,3 +1,5 @@
+* !PROJECT DEPRECATED AND WILL NO GET NEW UPDATES! *
+
 # dfgOS
 [![GitHub license](https://img.shields.io/github/license/DcorpProj/dfgOS)](https://github.com/DcorpProj/dfgOS/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/DcorpProj/dfgOS)](https://github.com/DcorpProj/dfgOS/graphs/contributors)
